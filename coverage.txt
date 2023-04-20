@@ -1,0 +1,18 @@
+Name                                Stmts   Miss  Cover
+-------------------------------------------------------
+manage.py                              12      2    83%
+modules/__init__.py                     0      0   100%
+modules/settings.py                    21      0   100%
+modules/urls.py                         3      0   100%
+titles/__init__.py                      0      0   100%
+titles/admin.py                         9      0   100%
+titles/apps.py                          4      0   100%
+titles/migrations/0001_initial.py       5      0   100%
+titles/migrations/__init__.py           0      0   100%
+titles/models.py                        9      1    89%
+titles/serializers.py                  11      0   100%
+titles/tests.py                        44      1    98%
+titles/urls.py                          7      0   100%
+titles/views.py                        16      0   100%
+-------------------------------------------------------
+TOTAL                                 141      4    97%
