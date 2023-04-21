@@ -1,4 +1,4 @@
-git clone 
+git clone git@github.com:abyxez/modules_test.git
 
 cd modules_test/
 
